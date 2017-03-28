@@ -9,7 +9,7 @@ const checkMark = "\u2714"
 const ballotX = "\u2718"
 
 func init() {
-	fmt.Println("*** Starting Tests for occurrencesV2 ***")
+	fmt.Println("*** Starting Tests for occurrences ***")
 	fmt.Println()
 }
 
@@ -65,7 +65,7 @@ func Test5(t *testing.T) {
 
 func TestLastTest(t *testing.T) {
 	fmt.Println()
-	fmt.Println("*** Ended Tests for occurrencesV2 ***")
+	fmt.Println("*** Ended Tests for occurrences ***")
 	fmt.Println()
 
 }
