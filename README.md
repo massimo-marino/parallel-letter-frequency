@@ -10,6 +10,6 @@ Create a function that returns the total frequency of each letter in a text *and
 
 The implementation depends on the following packages:
 
-- btree: from ``github.com/emirpasic/gods/trees/btree`` ([https://github.com/emirpasic/gods](https://github.com/emirpasic/gods) ); you have to ``go get github.com/emirpasic/gods``
+- **btree**: from ``github.com/emirpasic/gods/trees/btree`` ([https://github.com/emirpasic/gods](https://github.com/emirpasic/gods) ); you have to ``go get github.com/emirpasic/gods``
 
-- alphabet: see [https://github.com/massimo-marino/alphabet.git](https://github.com/massimo-marino/alphabet.git) 
+- **alphabet**: see [https://github.com/massimo-marino/alphabet.git](https://github.com/massimo-marino/alphabet.git) 
