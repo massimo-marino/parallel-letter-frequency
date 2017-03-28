@@ -1,10 +1,7 @@
 package occurrences
 
 import (
-	//	"alphabet"
 	"fmt"
-	//	"sort"
-	//	"strings"
 	"testing"
 )
 
